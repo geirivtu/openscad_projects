@@ -1,0 +1,12 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "d": "330",
+            "h": "700",
+            "leg_t": "30",
+            "t": "150",
+            "w": "400"
+        }
+    },
+    "fileFormatVersion": "1"
+}
